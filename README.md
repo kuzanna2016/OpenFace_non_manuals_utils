@@ -1,4 +1,4 @@
-## Materials for the tutorial on how to work with OpenFace (and other facial landmarks detection tools) for sign language research
+## Materials for the workshop on annotating sign language data using face and body recognition softwares
 
  - `convert_to_elan_format.py` turns the OpenFace output to the ELAN-readable table with AUs presence.
  - `draw_intensity.py` plots the intensities of the AUs
